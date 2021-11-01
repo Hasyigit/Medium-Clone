@@ -1,3 +1,4 @@
-
+<h1>Medium Bootstrap Clone</h1>
+<hr>
 <img src="https://github.com/Hasyigit/Medium-Clone/blob/master/img/mediumgorsel.png?raw=true" alt="Paris">
  
