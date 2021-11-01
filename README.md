@@ -1,6 +1,4 @@
-<div style"center">
-<img src ="https://github.com/Hasyigit/Medium-Clone/blob/master/img/mediumgorsel.png?raw=true" width="auto">
-</div>
+<img src="https://github.com/Hasyigit/Medium-Clone/blob/master/img/mediumgorsel.png?raw=true" alt="Paris" class="center">
 
 
 
