@@ -1,0 +1,26 @@
+body {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.navdiv {
+    
+    background-color: #C4E2FF;
+    
+}
+
+#postlar {
+    background-color: #C4E2FF;
+    
+} 
+
+.listbuton li {
+    margin-left: 4px;
+    margin-top: 10px;
+}
+
+.border-top-dark {
+    border-top: 1px solid rgb(153, 148, 148)
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgb(153, 148, 148)
+}
