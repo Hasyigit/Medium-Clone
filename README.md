@@ -13,6 +13,7 @@ You can find the working example here: https://hasyigit.github.io/Medium-Clone/
 
 
 
-<h5>Preview</h5>
+
+ <h5>Preview</h5>
 <img src="https://github.com/Hasyigit/Medium-Clone/blob/master/img/mediumgorsel.png?raw=true" alt="Paris">
- 
+
